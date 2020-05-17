@@ -1,6 +1,7 @@
 {
   "name": "p5-projects",
   "projects": [
-    "sketch1"
+    "sketch1",
+    "sketch2"
   ]
 }
